@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Thu 22 Mar 2012 16:14:20 GMT
+
+BeginCmp
+TimeStamp = /4F6AF1A5;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B0C7C;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF08C;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF1D6;
+Reference = C4;
+ValeurCmp = 4.7uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0A4;
+Reference = C5;
+ValeurCmp = 18pF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0E2;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF1D1;
+Reference = C7;
+ValeurCmp = 4.7uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0E7;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF198;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0DC;
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF096;
+Reference = C11;
+ValeurCmp = 18pF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0ED;
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF194;
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0D5;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AFD1B;
+Reference = C15;
+ValeurCmp = 3.3uF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0D1;
+Reference = C16;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF0CC;
+Reference = C17;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AEEE8;
+Reference = IC1;
+ValeurCmp = FT2232;
+IdModule  = LQFP64_0.5mm_Pitch_10x10mm_FT2232;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF2D7;
+Reference = L1;
+ValeurCmp = 600R/0.5A;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF2BE;
+Reference = L2;
+ValeurCmp = 600R/0.5A;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF227;
+Reference = R1;
+ValeurCmp = 56K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF21E;
+Reference = R2;
+ValeurCmp = 12K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B36C1;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B369F;
+Reference = R4;
+ValeurCmp = 10M;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B3686;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AEF3F;
+Reference = U1;
+ValeurCmp = USBCONN;
+IdModule  = CONN_USB2_MiniB_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF78E;
+Reference = U2;
+ValeurCmp = LP2980;
+IdModule  = SOT23-5_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF3B7;
+Reference = X1;
+ValeurCmp = 12MHz;
+IdModule  = Crystal_6x3.6mm_ReducedSize;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B2DB3;
+Reference = XS1;
+ValeurCmp = M50-3501142-SMD;
+IdModule  = flexibity-M50-3501142;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B2DBC;
+Reference = XS2;
+ValeurCmp = M50-3501142-SMD;
+IdModule  = flexibity-M50-3501142;
+EndCmp
+
+EndListe

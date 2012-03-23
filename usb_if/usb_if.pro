@@ -1,9 +1,16 @@
-update=Thu 22 Mar 2012 16:15:33 GMT
+update=Fri 23 Mar 2012 10:12:35 GMT
 version=1
 last_client=pcbnew
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
-LibDir=../../../../../../local/wolf3400/Projects/flexibity/hardware/libs/kicad
+LibDir=../../../../../local/wolf3400/Projects/flexibity/shields/libs
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -66,21 +73,14 @@ LibName30=valves
 LibName31=opendous
 LibName32=SparkFun
 LibName33=flexibity
-[general]
-version=1
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=320
 PadDimH=600
 PadDimV=600
 BoardThickness=630
-TxtPcbV=800
-TxtPcbH=600
+TxtPcbV=250
+TxtPcbH=250
 TxtModV=600
 TxtModH=600
 TxtModW=120

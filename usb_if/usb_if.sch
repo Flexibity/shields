@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Thu 22 Mar 2012 15:54:17 GMT
+EESchema Schematic File Version 2  date Sat 24 Mar 2012 14:05:23 GMT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -32,14 +32,13 @@ LIBS:valves
 LIBS:opendous
 LIBS:SparkFun
 LIBS:flexibity
-LIBS:usb_if-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "22 mar 2012"
+Date "24 mar 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -47,6 +46,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text GLabel 8625 5950 0    60   BiDi ~ 0
+ADC2_VREFL
 Connection ~ 5375 2050
 Wire Wire Line
 	5375 1950 5375 2450
@@ -547,8 +548,6 @@ Text GLabel 9225 5050 2    60   BiDi ~ 0
 TMR2
 Text GLabel 8625 6050 0    60   BiDi ~ 0
 _RESETB
-Text GLabel 8625 5950 0    60   BiDi ~ 0
-ADC2_VREFL
 Text GLabel 8625 5850 0    60   BiDi ~ 0
 VREF
 Text GLabel 8625 5650 0    60   BiDi ~ 0

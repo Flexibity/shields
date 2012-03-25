@@ -1,14 +1,21 @@
-update=Thu 22 Mar 2012 07:14:12 PM GMT
+update=Sat 24 Mar 2012 15:41:24 GMT
 version=1
-last_client=kicad
+last_client=eeschema
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=320
 PadDimH=600
 PadDimV=600
 BoardThickness=630
-TxtPcbV=800
-TxtPcbH=600
+TxtPcbV=250
+TxtPcbH=250
 TxtModV=600
 TxtModH=600
 TxtModW=120
@@ -19,6 +26,7 @@ TxtLar=120
 MSegLar=150
 LastNetListRead=usb_if.net
 [pcbnew/libraries]
+LibDir=../../../../../../local/wolf3400/Projects/flexibity/hardware/libs/kicad
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -31,10 +39,9 @@ LibName9=led
 LibName10=dip_sockets
 LibName11=flexibity
 LibName12=opendous
-LibDir=../libs
 [eeschema]
 version=1
-LibDir=../libs
+LibDir=../../../../../local/wolf3400/Projects/flexibity/shields/libs
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -97,10 +104,3 @@ LibName30=valves
 LibName31=opendous
 LibName32=SparkFun
 LibName33=flexibity
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
-[general]
-version=1

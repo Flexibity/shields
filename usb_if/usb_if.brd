@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Mon 26 Mar 2012 15:23:54 BST
+PCBNEW-BOARD Version 1 date Mon 26 Mar 2012 15:34:56 BST
 
 # Created by Pcbnew(2011-05-25)-stable
 
@@ -9,7 +9,7 @@ Ly 1FFF8001
 EnabledLayers 1FFF8001
 Links 89
 NoConn 71
-Di 45324 28844 69098 50348
+Di 45324 28804 69098 50466
 Ndraw 6
 Ntrack 65
 Nzone 0
@@ -20,10 +20,10 @@ $EndGENERAL
 
 $SHEETDESCR
 Sheet A4 11700 8267
-Title ""
+Title "USB Interface Shield"
 Date "26 mar 2012"
-Rev ""
-Comp ""
+Rev "0.1"
+Comp "Flexibity"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -55,8 +55,8 @@ TextPcbSize 250 250
 EdgeModWidth 150
 TextModSize 600 600
 TextModWidth 120
-PadSize 1600 1600
-PadDrill 1260
+PadSize 600 600
+PadDrill 320
 Pad2MaskClearance 100
 AuxiliaryAxisOrg 0 0
 PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
@@ -2454,7 +2454,7 @@ Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
 Sc 4F707B73
-AR 
+AR 1pin
 Op 0 0 0
 T0 0 -1200 400 400 0 100 N V 21 N "1PIN"
 T1 0 1100 400 400 0 100 N I 21 N "P***"
@@ -2473,7 +2473,7 @@ Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
 Sc 4F7078D7
-AR 
+AR 1pin
 Op 0 0 0
 T0 0 -1200 400 400 0 100 N V 21 N "1PIN"
 T1 0 1100 400 400 0 100 N I 21 N "P***"
@@ -2492,7 +2492,7 @@ Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
 Sc 4F7078E1
-AR 
+AR 1pin
 Op 0 0 0
 T0 0 -1200 400 400 0 100 N V 21 N "1PIN"
 T1 0 1100 400 400 0 100 N I 21 N "P***"

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sat 24 Mar 2012 14:05:23 GMT
+EESchema Schematic File Version 2  date Mon 26 Mar 2012 15:35:38 BST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -32,15 +32,16 @@ LIBS:valves
 LIBS:opendous
 LIBS:SparkFun
 LIBS:flexibity
+LIBS:usb_if-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "USB Interface Shield"
 Date "24 mar 2012"
-Rev ""
-Comp ""
+Rev "0.1"
+Comp "Flexibity"
 Comment1 ""
 Comment2 ""
 Comment3 ""

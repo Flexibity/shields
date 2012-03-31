@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Sat 31 Mar 2012 12:33:07 BST
+PCBNEW-BOARD Version 1 date Sat 31 Mar 2012 13:45:07 BST
 
 # Created by Pcbnew(2011-05-25)-stable
 
@@ -59,7 +59,7 @@ PadSize 600 600
 PadDrill 320
 Pad2MaskClearance 100
 AuxiliaryAxisOrg 0 0
-PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
+PcbPlotParams (pcbplotparams (layerselection 284196865) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue false) (plotothertext true) (plotinvisibletext false) (padsonsilk true) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory gerber/))
 $EndSETUP
 
 $EQUIPOT
@@ -1753,14 +1753,14 @@ Po 1024 -629
 $EndPAD
 $EndMODULE  CONN_USB2_MiniB_SMT
 $MODULE 1pin
-Po 62520 30354 0 15 4F7078BC 4F72C912 ~~
+Po 62520 30354 0 15 4F76F147 4F72C912 ~~
 Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
 Sc 4F72C912
 AR 1pin
 Op 0 0 0
-T0 0 -1200 400 400 0 100 N V 21 N "1PIN"
+T0 0 -1200 400 400 0 100 N I 21 N "1PIN"
 T1 0 1100 400 400 0 100 N I 21 N "P***"
 DC 0 0 0 -900 150 21
 $PAD
@@ -1772,14 +1772,14 @@ Po 0 0
 $EndPAD
 $EndMODULE  1pin
 $MODULE 1pin
-Po 46614 39685 0 15 4F7078EF 4F72C90F ~~
+Po 46614 39685 0 15 4F76F142 4F72C90F ~~
 Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
 Sc 4F72C90F
 AR 1pin
 Op 0 0 0
-T0 0 -1200 400 400 0 100 N V 21 N "1PIN"
+T0 0 -1200 400 400 0 100 N I 21 N "1PIN"
 T1 0 1100 400 400 0 100 N I 21 N "P***"
 DC 0 0 0 -900 150 21
 $PAD
@@ -1791,14 +1791,14 @@ Po 0 0
 $EndPAD
 $EndMODULE  1pin
 $MODULE 1pin
-Po 62520 49016 0 15 4F7078F5 4F72C90C ~~
+Po 62520 49016 0 15 4F76F13E 4F72C90C ~~
 Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
 Sc 4F72C90C
 AR 1pin
 Op 0 0 0
-T0 0 -1200 400 400 0 100 N V 21 N "1PIN"
+T0 0 -1200 400 400 0 100 N I 21 N "1PIN"
 T1 0 1100 400 400 0 100 N I 21 N "P***"
 DC 0 0 0 -900 150 21
 $PAD
@@ -2508,12 +2508,12 @@ $EndMODULE  flexibity-M50-3501142
 $TEXTPCB
 Te "USB Interface"
 Po 57244 48819 787 787 79 0
-De 15 1 0 Normal
+De 21 1 0 Normal
 $EndTEXTPCB
 $TEXTPCB
 Te "Flexibity"
 Po 54961 47323 1181 1181 118 0
-De 15 1 0 Normal
+De 21 1 0 Normal
 $EndTEXTPCB
 $DRAWSEGMENT
 Po 0 45400 39699 51305 29331 150

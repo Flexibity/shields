@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 26 Mar 2012 15:35:38 BST
+EESchema Schematic File Version 2  date Thu 14 Jun 2012 20:20:19 BST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -32,18 +32,16 @@ LIBS:valves
 LIBS:opendous
 LIBS:SparkFun
 LIBS:flexibity
-LIBS:usb_if-cache
-EELAYER 25  0
+EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
-encoding utf-8
 Sheet 1 1
 Title "USB Interface Shield"
-Date "24 mar 2012"
-Rev "0.1"
-Comp "Flexibity"
-Comment1 ""
-Comment2 ""
+Date "14 jun 2012"
+Rev "1"
+Comp "Flexibity Ltd."
+Comment1 "Licensed under CC-BY-SA 3.0"
+Comment2 "http://creativecommons.org/licenses/by-sa/3.0/"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -479,9 +477,9 @@ _CTS
 Text GLabel 7400 4850 2    60   BiDi ~ 0
 _RTS
 Text GLabel 6775 4750 2    60   BiDi ~ 0
-TXD
-Text GLabel 6775 4650 2    60   BiDi ~ 0
 RXD
+Text GLabel 6775 4650 2    60   BiDi ~ 0
+TXD
 Text GLabel 6775 4450 2    60   BiDi ~ 0
 ADC2_VREFL
 Text GLabel 7375 4350 2    60   BiDi ~ 0

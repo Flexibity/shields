@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Thu 14 Jun 2012 23:23:37 BST
+PCBNEW-BOARD Version 1 date Sun 01 Jul 2012 11:59:47 BST
 
 # Created by Pcbnew(2010-03-14)-final
 
@@ -20,12 +20,12 @@ $EndGENERAL
 $SHEETDESCR
 Sheet A4 11700 8267
 Title "USB Interface Shield"
-Date "14 jun 2012"
-Rev "0.1"
-Comp "Flexibity"
-Comment1 "Copyright (c) Maxim Osipov"
-Comment2 "Distributed under Creative Commons Attribution-ShareAlike 3.0 Unported"
-Comment3 "http://creativecommons.org/licenses/by-sa/3.0/"
+Date "1 jul 2012"
+Rev "1"
+Comp "Flexibity Ltd."
+Comment1 "Licensed under CC-BY-SA 3.0"
+Comment2 "http://creativecommons.org/licenses/by-sa/3.0/"
+Comment3 "Inspired by Econotag design (http://mc1322x.devl.org/)"
 Comment4 ""
 $EndSHEETDESCR
 

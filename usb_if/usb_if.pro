@@ -1,13 +1,8 @@
-update=Thu 29 Mar 2012 16:34:11 BST
+update=Thu 14 Jun 2012 20:19:40 BST
 version=1
-last_client=eeschema
+last_client=cvpcb
 [general]
 version=1
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=320
@@ -26,7 +21,6 @@ TxtLar=120
 MSegLar=150
 LastNetListRead=usb_if.net
 [pcbnew/libraries]
-LibDir=/local/wolf3400/Projects/flexibity/shields/libs
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -39,9 +33,10 @@ LibName9=led
 LibName10=dip_sockets
 LibName11=flexibity
 LibName12=opendous
+LibDir=../libs
 [eeschema]
 version=1
-LibDir=../../../../../local/wolf3400/Projects/flexibity/shields/libs
+LibDir=../libs
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -104,3 +99,8 @@ LibName30=valves
 LibName31=opendous
 LibName32=SparkFun
 LibName33=flexibity
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms

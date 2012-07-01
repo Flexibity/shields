@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Thu 14 Jun 2012 20:20:19 BST
+EESchema Schematic File Version 2  date Sun 01 Jul 2012 11:52:28 BST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -32,6 +32,7 @@ LIBS:valves
 LIBS:opendous
 LIBS:SparkFun
 LIBS:flexibity
+LIBS:usb_if-cache
 EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
@@ -42,7 +43,7 @@ Rev "1"
 Comp "Flexibity Ltd."
 Comment1 "Licensed under CC-BY-SA 3.0"
 Comment2 "http://creativecommons.org/licenses/by-sa/3.0/"
-Comment3 ""
+Comment3 "Inspired by Econotag design (http://mc1322x.devl.org/)"
 Comment4 ""
 $EndDescr
 Text GLabel 8625 5950 0    60   BiDi ~ 0

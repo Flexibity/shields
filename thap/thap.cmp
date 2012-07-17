@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Tue 17 Jul 2012 14:11:04 MSK
+
+BeginCmp
+TimeStamp = /5004655B;
+Reference = BAT1;
+ValeurCmp = BATTERYAAA;
+IdModule  = flexibity-BATTERY-AAA-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5004656E;
+Reference = BAT2;
+ValeurCmp = BATTERYAAA;
+IdModule  = flexibity-BATTERY-AAA-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF1A5;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500511D3;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500511DF;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500512B8;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500521C2;
+Reference = D1;
+ValeurCmp = D_RECTIFIER;
+IdModule  = DO214;
+EndCmp
+
+BeginCmp
+TimeStamp = /50052259;
+Reference = Q1;
+ValeurCmp = FDN340P;
+IdModule  = SOT23-3_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF227;
+Reference = R1;
+ValeurCmp = 56K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500520BE;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /50051344;
+Reference = R3;
+ValeurCmp = 4.7K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /5005134A;
+Reference = R4;
+ValeurCmp = 4.7K;
+IdModule  = SM0603_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /50052582;
+Reference = SW1;
+ValeurCmp = SWITCH_PUSHBUTTON;
+IdModule  = MICROSWITCH_SPST_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AEF3F;
+Reference = U1;
+ValeurCmp = USBCONN;
+IdModule  = CONN_USB2_MiniB_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6AF78E;
+Reference = U2;
+ValeurCmp = LP2980;
+IdModule  = SOT23-5_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500464BC;
+Reference = U3;
+ValeurCmp = SHT21;
+IdModule  = flexibity-DFN6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5005201C;
+Reference = U4;
+ValeurCmp = MAX6326;
+IdModule  = SOT23-3_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /500463CE;
+Reference = U5;
+ValeurCmp = MPL115A2;
+IdModule  = flexibity-MPL115A2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B2DB3;
+Reference = XS1;
+ValeurCmp = M50-3501142-SMD;
+IdModule  = flexibity-M50-3501142;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F6B2DBC;
+Reference = XS2;
+ValeurCmp = M50-3501142-SMD;
+IdModule  = flexibity-M50-3501142;
+EndCmp
+
+EndListe

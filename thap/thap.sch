@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 17 Jul 2012 18:25:53 MSK
+EESchema Schematic File Version 2  date Wed 25 Jul 2012 18:35:38 MSK
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ EELAYER END
 $Descr A4 11700 8267
 Sheet 1 1
 Title "USB Interface Shield"
-Date "17 jul 2012"
+Date "25 jul 2012"
 Rev "1"
 Comp "Flexibity Ltd."
 Comment1 "Licensed under CC-BY-SA 3.0"
@@ -735,7 +735,7 @@ L R_MINI R1
 U 1 1 4F6AF227
 P 1875 3250
 F 0 "R1" H 1805 3300 25  0000 C CNN
-F 1 "56K" H 1945 3300 20  0000 C CNN
+F 1 "100K" H 1945 3300 20  0000 C CNN
 	1    1875 3250
 	1    0    0    -1  
 $EndComp

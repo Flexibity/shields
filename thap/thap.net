@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Tue 17 Jul 2012 18:26:24 MSK
+# EESchema Netlist Version 1.1 created  Wed 25 Jul 2012 18:35:58 MSK
 (
  ( /50052582 $noname  SW1 SWITCH_PUSHBUTTON {Lib=SWITCH_PUSHBUTTON}
   (    1 N-000053 )
@@ -117,7 +117,7 @@
   (   21 ? )
   (   22 ? )
  )
- ( /4F6AF227 $noname  R1 56K {Lib=R_MINI}
+ ( /4F6AF227 $noname  R1 100K {Lib=R_MINI}
   (    1 GND )
   (    2 N-000038 )
  )

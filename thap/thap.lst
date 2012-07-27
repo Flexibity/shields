@@ -1,0 +1,25 @@
+ref	value
+*BAT1	BATTERYAAA		http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1888427 (2 each)
+*BAT2	BATTERYAAA		http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1888427 (2 each)
+*C1	100nF			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1414610
+*C2	100nF			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1414610
+*C3	1uF			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=2112839
+*C4	1uF			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=2112839
+*D1	D_RECTIFIER		http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1467489
+*Q1	FDN340P			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=9846310
+*R1	100K			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1344361
+*R2	100K			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1344361
+*R3	4.7K			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=2008358
+*R4	4.7K			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=2008358
+*SW1	SWITCH_PUSHBUTTON	http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1608081
+*U1	USBCONN			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=2112367
+U2	LP2980			
+*U3	SHT21			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1855468
+*U4	MAX6326			http://uk.farnell.com/jsp/search/productdetail.jsp?sku=9723951
+*U5	MPL115A2		http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1871303
+*XS1	M50-3501142-SMD		http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1022310 (need 11way!)
+*XS2	M50-3501142-SMD		http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1022310 (need 11way!)
+TSTPIN				http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1835265
+TSTPIN				http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1835265
+TSTPIN				http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1835265
+TSTPIN				http://uk.farnell.com/jsp/search/productdetail.jsp?sku=1835265

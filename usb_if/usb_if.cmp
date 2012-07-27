@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Thu 22 Mar 2012 16:14:20 GMT
+Cmp-Mod V01 Genere par PcbNew le Fri 27 Jul 2012 11:13:06 MSK
 
 BeginCmp
 TimeStamp = /4F6AF1A5;
@@ -179,7 +179,7 @@ BeginCmp
 TimeStamp = /4F6AEF3F;
 Reference = U1;
 ValeurCmp = USBCONN;
-IdModule  = CONN_USB2_MiniB_SMT;
+IdModule  = FLEXIBITY-CONN_USB2_MINIB_SMT;
 EndCmp
 
 BeginCmp

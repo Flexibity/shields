@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Fri 27 Jul 2012 09:34:52 MSK
+PCBNEW-BOARD Version 1 date Fri 27 Jul 2012 10:03:15 MSK
 
 # Created by Pcbnew(2010-03-14)-final
 
@@ -9,7 +9,7 @@ EnabledLayers 1FFF8001
 Links 53
 NoConn 0
 Di 45324 29255 69098 50076
-Ndraw 8
+Ndraw 9
 Ntrack 166
 Nzone 0
 BoardThickness 630
@@ -1519,6 +1519,11 @@ Ne 6 "N-000038"
 Po 1024 -629
 $EndPAD
 $EndMODULE  flexibity-CONN_USB2_MiniB_SMT
+$TEXTPCB
+Te "Version 1"
+Po 62874 46890 394 394 63 0
+De 21 1 0 Normal
+$EndTEXTPCB
 $TEXTPCB
 Te "THAP"
 Po 59764 48779 787 787 150 0

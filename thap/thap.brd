@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Sun 02 Dec 2012 13:19:43 GMT
+PCBNEW-BOARD Version 1 date Sun 02 Dec 2012 13:40:29 GMT
 
 # Created by Pcbnew(2011-05-25)-stable
 
@@ -20,9 +20,9 @@ $EndGENERAL
 
 $SHEETDESCR
 Sheet A4 11700 8267
-Title "USB Interface Shield"
+Title "Temperature, Humidity and Atmospheric Pressure (THAP) Shield"
 Date "2 dec 2012"
-Rev "1"
+Rev "2"
 Comp "Flexibity Ltd."
 Comment1 "Licensed under CC-BY-SA 3.0"
 Comment2 "http://creativecommons.org/licenses/by-sa/3.0/"
@@ -55,11 +55,11 @@ TextPcbSize 250 250
 EdgeModWidth 150
 TextModSize 600 600
 TextModWidth 120
-PadSize 550 550
+PadSize 600 600
 PadDrill 320
 Pad2MaskClearance 100
 AuxiliaryAxisOrg 0 0
-PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
+PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
 $EndSETUP
 
 $EQUIPOT
@@ -148,7 +148,7 @@ Li SIL-1
 Cd Connecteurs 1 pin
 Kw CONN DEV
 Sc 50BB5256
-AR 
+AR SIL-1
 Op 0 0 0
 T0 0 -750 200 200 0 50 N I 21 N "SIL-1"
 T1 0 750 200 200 0 50 N I 21 N "Val**"
@@ -170,7 +170,7 @@ Li SIL-1
 Cd Connecteurs 1 pin
 Kw CONN DEV
 Sc 50BB5422
-AR 
+AR SIL-1
 Op 0 0 0
 T0 0 -750 200 200 0 50 N I 21 N "SIL-1"
 T1 0 750 200 200 0 50 N I 21 N "Val**"
@@ -192,7 +192,7 @@ Li SIL-1
 Cd Connecteurs 1 pin
 Kw CONN DEV
 Sc 50BB51A5
-AR 
+AR SIL-1
 Op 0 0 0
 T0 0 -750 200 200 0 50 N I 21 N "SIL-1"
 T1 0 750 200 200 0 50 N I 21 N "Val**"
@@ -1492,7 +1492,7 @@ Li SIL-1
 Cd Connecteurs 1 pin
 Kw CONN DEV
 Sc 50BB4E33
-AR 
+AR SIL-1
 Op 0 0 0
 T0 0 -750 200 200 0 50 N I 21 N "SIL-1"
 T1 0 750 200 200 0 50 N I 21 N "Val**"

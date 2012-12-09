@@ -1,0 +1,300 @@
+# EESchema Netlist Version 1.1 created  Sun 09 Dec 2012 14:49:39 GMT
+(
+ ( /50C49270 $noname  P2 DEV_XS2 {Lib=DEV_XS2}
+  (    1 SSI_BITCK )
+  (    2 TMR2 )
+  (    3 SSI_FSYN )
+  (    4 SPI_CLK )
+  (    5 SPI_MOSI )
+  (    6 SPI_MISO )
+  (    7 SPI_CS )
+  (    8 SPI_INT )
+  (    9 _I2C_INT )
+  (   10 TMR1 )
+  (   11 KB4 )
+  (   12 KB3 )
+  (   13 KB2 )
+  (   14 KB1 )
+  (   15 GND )
+  (   16 +3.3V )
+  (   17 VREF )
+  (   18 ADC2_VREFH )
+  (   19 ADC2_VREFL )
+  (   20 SSI_TX )
+  (   21 _RESETB )
+  (   22 SSI_RX )
+  (   23 GND )
+  (   24 +3.3V )
+ )
+ ( /50C49254 $noname  P1 DEV_XS1 {Lib=DEV_XS1}
+  (    1 TMR3 )
+  (    2 RTCK )
+  (    3 SDA )
+  (    4 SCL )
+  (    5 TXD )
+  (    6 RXD )
+  (    7 _RTS )
+  (    8 _CTS )
+  (    9 TXD2 )
+  (   10 RXD2 )
+  (   11 _RTS2 )
+  (   12 _CTS2 )
+  (   13 TCK )
+  (   14 TMS )
+  (   15 TDO )
+  (   16 TDI )
+  (   17 ADC5 )
+  (   18 ADC6 )
+  (   19 ADC3 )
+  (   20 ADC4 )
+  (   21 ADC1 )
+  (   22 ADC2 )
+  (   23 GND )
+  (   24 +3.3V )
+ )
+ ( /50052582 $noname  SW1 SWITCH_PUSHBUTTON {Lib=SWITCH_PUSHBUTTON}
+  (    1 N-000045 )
+  (    2 +3.3V )
+ )
+ ( /500521C2 $noname  D1 D_RECTIFIER {Lib=D_RECTIFIER}
+  (    1 N-000045 )
+  (    2 N-000039 )
+ )
+ ( /4F6B2DBC $noname  XS2 M50-3501142-SMD {Lib=M50-3501142-SMD}
+  (    1 SSI_BITCK )
+  (    2 TMR2 )
+  (    3 SSI_FSYN )
+  (    4 SPI_CLK )
+  (    5 SPI_MOSI )
+  (    6 SPI_MISO )
+  (    7 SPI_CS )
+  (    8 SPI_INT )
+  (    9 _I2C_INT )
+  (   10 TMR1 )
+  (   11 KB4 )
+  (   12 KB3 )
+  (   13 KB2 )
+  (   14 KB1 )
+  (   15 GND )
+  (   16 +3.3V )
+  (   17 VREF )
+  (   18 ADC2_VREFH )
+  (   19 ADC2_VREFL )
+  (   20 SSI_TX )
+  (   21 _RESETB )
+  (   22 SSI_RX )
+ )
+ ( /4F6B2DB3 $noname  XS1 M50-3501142-SMD {Lib=M50-3501142-SMD}
+  (    1 TMR3 )
+  (    2 RTCK )
+  (    3 SDA )
+  (    4 SCL )
+  (    5 TXD )
+  (    6 RXD )
+  (    7 _RTS )
+  (    8 _CTS )
+  (    9 TXD2 )
+  (   10 RXD2 )
+  (   11 _RTS2 )
+  (   12 _CTS2 )
+  (   13 TCK )
+  (   14 TMS )
+  (   15 TDO )
+  (   16 TDI )
+  (   17 ADC5 )
+  (   18 ADC6 )
+  (   19 ADC3 )
+  (   20 ADC4 )
+  (   21 ADC1 )
+  (   22 ADC2 )
+ )
+ ( /4F6AF227 $noname  R1 100K {Lib=R_MINI}
+  (    1 GND )
+  (    2 N-000017 )
+ )
+ ( /4F6AF78E $noname  U2 LP2980 {Lib=LP2980}
+  (    1 N-000017 )
+  (    2 GND )
+  (    3 N-000017 )
+  (    4 ? )
+  (    5 N-000039 )
+ )
+ ( /4F6AF1A5 $noname  C1 100nF {Lib=C_MINI}
+  (    1 N-000017 )
+  (    2 GND )
+ )
+ ( /4F6AEF3F $noname  U1 USBCONN {Lib=USBCONN}
+  (    1 N-000017 )
+  (    2 ? )
+  (    3 ? )
+  (    4 GND )
+  (    5 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ D?
+ SO*
+ SM*
+ SLP1006P2
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "TDO" "TDO"
+ XS1 15
+ P1 15
+Net 3 "ADC3" "ADC3"
+ P1 19
+ XS1 19
+Net 4 "ADC6" "ADC6"
+ P1 18
+ XS1 18
+Net 5 "ADC5" "ADC5"
+ XS1 17
+ P1 17
+Net 6 "TDI" "TDI"
+ P1 16
+ XS1 16
+Net 7 "TMS" "TMS"
+ XS1 14
+ P1 14
+Net 8 "TCK" "TCK"
+ XS1 13
+ P1 13
+Net 9 "ADC2" "ADC2"
+ XS1 22
+ P1 22
+Net 10 "_CTS2" "_CTS2"
+ P1 12
+ XS1 12
+Net 11 "ADC1" "ADC1"
+ P1 21
+ XS1 21
+Net 12 "_RTS2" "_RTS2"
+ P1 11
+ XS1 11
+Net 13 "ADC4" "ADC4"
+ XS1 20
+ P1 20
+Net 16 "RXD2" "RXD2"
+ XS1 10
+ P1 10
+Net 17 "" ""
+ U2 3
+ C1 1
+ U1 1
+ U2 1
+ R1 2
+Net 18 "SPI_MISO" "SPI_MISO"
+ XS2 6
+ P2 6
+Net 19 "KB3" "KB3"
+ XS2 12
+ P2 12
+Net 20 "_RESETB" "_RESETB"
+ XS2 21
+ P2 21
+Net 21 "KB4" "KB4"
+ P2 11
+ XS2 11
+Net 22 "TMR1" "TMR1"
+ P2 10
+ XS2 10
+Net 23 "_I2C_INT" "_I2C_INT"
+ P2 9
+ XS2 9
+Net 24 "SPI_INT" "SPI_INT"
+ P2 8
+ XS2 8
+Net 25 "SPI_CS" "SPI_CS"
+ P2 7
+ XS2 7
+Net 26 "SPI_MOSI" "SPI_MOSI"
+ P2 5
+ XS2 5
+Net 27 "SPI_CLK" "SPI_CLK"
+ XS2 4
+ P2 4
+Net 28 "SSI_FSYN" "SSI_FSYN"
+ XS2 3
+ P2 3
+Net 29 "TMR2" "TMR2"
+ XS2 2
+ P2 2
+Net 30 "SSI_BITCK" "SSI_BITCK"
+ XS2 1
+ P2 1
+Net 31 "TXD2" "TXD2"
+ P1 9
+ XS1 9
+Net 32 "_CTS" "_CTS"
+ XS1 8
+ P1 8
+Net 33 "_RTS" "_RTS"
+ P1 7
+ XS1 7
+Net 34 "RXD" "RXD"
+ P1 6
+ XS1 6
+Net 35 "TXD" "TXD"
+ XS1 5
+ P1 5
+Net 36 "SCL" "SCL"
+ XS1 4
+ P1 4
+Net 37 "SDA" "SDA"
+ P1 3
+ XS1 3
+Net 38 "RTCK" "RTCK"
+ P1 2
+ XS1 2
+Net 39 "" ""
+ D1 2
+ U2 5
+Net 40 "ADC2_VREFL" "ADC2_VREFL"
+ P2 19
+ XS2 19
+Net 41 "ADC2_VREFH" "ADC2_VREFH"
+ P2 18
+ XS2 18
+Net 42 "VREF" "VREF"
+ XS2 17
+ P2 17
+Net 43 "KB1" "KB1"
+ P2 14
+ XS2 14
+Net 44 "KB2" "KB2"
+ P2 13
+ XS2 13
+Net 45 "" ""
+ D1 1
+ SW1 1
+Net 46 "SSI_RX" "SSI_RX"
+ P2 22
+ XS2 22
+Net 47 "SSI_TX" "SSI_TX"
+ P2 20
+ XS2 20
+Net 48 "TMR3" "TMR3"
+ XS1 1
+ P1 1
+Net 49 "+3.3V" "+3.3V"
+ SW1 2
+ XS2 16
+ P2 16
+ P2 24
+ P1 24
+Net 50 "GND" "GND"
+ P2 23
+ R1 1
+ U2 2
+ XS2 15
+ C1 2
+ U1 4
+ P2 15
+ U1 5
+ P1 23
+}
+#End
